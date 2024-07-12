@@ -1,15 +1,15 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> ࿗ विवक्षितम् ࿗ <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/c94b6b82b2ce8f5bc8d4c.jpg" alt="Inflex Music Logo" width="360" height="500">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamInflex/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Vivakshitam/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/Vivakshitam/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Vivakshitam/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/Vivakshitam/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Vivakshitam/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Vivakshitam/InflexMusicBot/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/Vivakshitam/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -105,13 +105,12 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicB
 
 ### 🔄 Updates & Support
 
-Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
-
+Stay Connected :
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://telegram.me/DharmaForever">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://telegram.me/Lokshankaram">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -141,4 +140,4 @@ This project Is Licensed Under The MIT License. For More Details, See The [LICEN
 ### 🙏 Acknowledgements
 
 Special Thanks To All The Contributors , Supporters , And Users Of The Inflex Music Bot. Your Feedback And Support Keep Us Going !
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) , [AviaxMusic](https://github.com/TeamAviax/AviaxMusic) And [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For Their Source Codes.
+- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) , [AviaxMusic](https://github.com/TeamAviax/AviaxMusic) And [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) And [InflexMusic] (https://github.com/InflexMusic) For Their Source Codes. 
