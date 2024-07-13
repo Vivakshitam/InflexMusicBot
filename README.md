@@ -1,4 +1,4 @@
-<h1 align="center"> ࿗ विवक्षितम् ࿗ <\> </h1>
+<h1 align="center"> ࿗ शाङ्कर स्वर ࿗ <\> </h1>
 
 <p align="center">
   <img src="https://graph.org/file/c94b6b82b2ce8f5bc8d4c.jpg" alt="Inflex Music Logo" width="360" height="500">
