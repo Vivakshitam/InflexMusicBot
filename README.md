@@ -99,7 +99,7 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/ShaankaraSvaraBot).
 
 ---
 
